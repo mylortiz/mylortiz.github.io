@@ -6,7 +6,7 @@
 
 </head>
 
-<body bgcolor="lightblue" text="black">hola bienvenidos a mi primera pagina web y mi autobiografia.
+<body bgcolor="lightblue" text="whrite">hola bienvenidos a mi primera pagina web y mi autobiografia.
 
 <center><img src="file:///C:/Users/Public/Videos/Documents/Downloads/snopyy.jpg"></center>
 
